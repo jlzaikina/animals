@@ -16,4 +16,8 @@ public class Cat : Animals
     {
         Console.WriteLine("Мяу");
     }
+    public void drink()
+    {
+        Console.WriteLine("Пью");
+    }
 }
