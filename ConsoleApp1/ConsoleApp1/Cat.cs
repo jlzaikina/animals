@@ -9,7 +9,7 @@ public class Cat : Animals
 
     public void eat()
     {
-        Console.WriteLine("Кушает");
+        Console.WriteLine("Иду кушать");
     }
 
     public void say()
